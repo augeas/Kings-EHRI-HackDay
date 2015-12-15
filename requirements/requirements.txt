@@ -16,11 +16,12 @@ httplib2
 networkx
 oauthlib
 prettytable
+nose
 pymongo
 python-dateutil
 python-gflags
 python-linkedin
-pyparsing
+pyparsing==1.5.6
 readline
 requests
 requests-oauthlib
